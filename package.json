@@ -1,6 +1,6 @@
 {
   "name": "@openedx/frontend-plugin-framework",
-  "version": "1.0.0-semantically-released",
+  "version": "1.1.2",
   "description": "Frontend Plugin Framework",
   "main": "dist/index.js",
   "repository": {
@@ -62,7 +62,7 @@
   },
   "peerDependencies": {
     "@edx/frontend-platform": "^7.0.0 || ^8.0.0",
-    "@openedx/paragon": "^21.0.0 || ^22.0.0",
+    "@openedx/paragon": "^21.0.0 || ^22.0.0 || ^23.0.0-alpha.1",
     "prop-types": "^15.8.0",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
